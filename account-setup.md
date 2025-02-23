@@ -24,6 +24,7 @@ parent: Introduction
 {: .note}
 If you are interested getting a personal ArcGIS account, you can find more information [here](https://gis.ubc.ca/software/). Be mindful that students and departments have different options for licenses. Please contact Geospatial Systems Analyst Haitao Li (ht.li@ubc.ca) if you need help with UBC’s Esri product.
 
+<br>
 
 ## ArcGIS Free vs. Enterprise Account
 An ArcGIS free account can be created by anyone and is intended for noncommercial, nongovernmental use. When using ArcGIS StoryMaps with a public account, some advanced storytelling and customization features are not available, including:
