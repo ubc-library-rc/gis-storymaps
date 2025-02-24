@@ -7,7 +7,7 @@ has_children: true
 
 # Creating StoryMaps with ArcGIS Online 
 
-This workshop is a gentle introduction to creating StoryMaps using the ArcGIS Online platform. StoryMaps offer a low-barrier way to visualize spatial narratives that can be shared with your friends, community, or stakeholders. The StoryMaps interface is quite intuitive, with drag and drop options that result in an aesthetic output. No prior experience necessary. This workshop makes use of the **free** account option, though you are welcome to work within a personal or organizational account if you have a paid subscription.
+This workshop is a gentle introduction to creating StoryMaps using the ArcGIS Online (AGOL) platform. StoryMaps offer a low-barrier way to visualize spatial narratives that can be shared with your friends, community, or stakeholders. The StoryMaps interface is quite intuitive, with drag and drop options that result in an aesthetic output. No prior experience necessary. This workshop makes use of the **free** account option, though you are welcome to work within a personal or organizational account if you have a paid subscription.
 
 By the end of this workshop, you will:
 
