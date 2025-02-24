@@ -18,12 +18,12 @@ We will only be looking at Smart Mapping styles. You can also use Arcade, ArcGIS
 <br>
 
 ## Counts and Amounts (color) aka Choropleth
-Counts and Amounts (ArcGIS’ term for a choropleth) uses colors to represent your numeric or ranked data across geographical areas. The data represented needs to be linked to an enumeration area and standardized as a rate or ratio. In ArcGIS Online, you can decide whether to classify your data, and your data classification method.
+Counts and Amounts (ArcGIS’ term for a choropleth) uses colors to represent your numeric or ranked data across geographical areas. The data represented needs to be linked to an enumeration area and standardized as a rate or ratio. In ArcGIS Online, you can decide whether to classify your data, and your data classification method. Read more about [Data Classification Methods](https://pro.arcgis.com/en/pro-app/latest/help/mapping/layer-properties/data-classification-methods.htm) and how you might want to use them.
 
 The map below shows the number of public transit commuters by neighbourhood.
 ![counts and amounts](./images/counts-amounts_20250220.png)
 
-Read more about [Data Classification Methods](https://pro.arcgis.com/en/pro-app/latest/help/mapping/layer-properties/data-classification-methods.htm) and how you might want to use them.
+
 
 <br>
 
@@ -65,5 +65,6 @@ The map below represents Walker commuters as a percent of total walkers.
 
 There are other comparison maps you can create as well. Play around with adding multiple data fields and seeing what comes up. Click on the i to learn more about each and how to use it.
 
-MORE RESOURCES
+----
+#### More resources
 For more in-depth instructions and examples, visit our workshop [Visualizing Data in ArcGIS Online](https://ubc-library-rc.github.io/intro-AGOL/).
