@@ -7,7 +7,7 @@ has_children: true
 
 # Creating StoryMaps with ArcGIS Online 
 
-This workshop is a gentle introduction to creating StoryMaps using the ArcGIS Online (AGOL) platform. StoryMaps offer a low-barrier way to visualize spatial narratives that can be shared with your friends, community, or stakeholders. The StoryMaps interface is quite intuitive, with drag and drop options that result in an aesthetic output. No prior experience necessary. This workshop makes use of the **free** account option, though you are welcome to work within a personal or organizational account if you have a paid subscription.
+This workshop is a gentle introduction to creating StoryMaps using the ArcGIS Online (AGOL) platform. StoryMaps offer a low-barrier way to digitally visualize spatial narratives that can be shared with your friends, community, or stakeholders. The StoryMaps interface is quite intuitive, with drag and drop options that result in an aesthetic output. No prior experience with the platform is necessary. Note: This workshop makes use of the **free** account option so you do not need a license to participate. If you do have a paid subscription, you are welcome to work within your own account.
 
 By the end of this workshop, you will:
 
@@ -30,7 +30,7 @@ By the end of this workshop, you will:
 
 *1*{: .circle .circle-purple} Create ArcGIS Online Account
 
-Prior to the workshop, please **create a [free ArcGIS Online public account](https://www.arcgis.com/home/index.html)**. If you have a paid personal or organizational account with Esri, you can choose to use your regular sign-in or create a separate free account to follow along. See the <a href="./account-setup.md" target="_blank">account setup</a> page for documentation. 
+Prior to the workshop, please **create a [free ArcGIS Online public account](https://www.arcgis.com/home/index.html)**. If you have a paid account with Esri, you can choose to use your regular sign-in or create a separate free account to follow along. See the <a href="./content/account-setup.md" target="_blank">account setup</a> page for documentation. 
 
 
 *2*{: .circle .circle-purple} Prepare Workshop Data
