@@ -37,7 +37,7 @@ Prior to the workshop, please **create a [free ArcGIS Online public account](htt
 
 This workshop will use data from the Vancouver Open Data portal as well as multimedia collected by your workshop facilitators. Click on the 'Download Data' button below to start the download. Once complete, extract the contents of the .zip file. 
 
-[Download Data](./content/storymaps-workshop.zip){: .btn .btn-purple }
+[Download Data](./storymaps-workshop.zip){: .btn .btn-purple }
 
 While you are welcome to use the multimedia provided, **you are encouraged to prepare at least 4 images** from your daily commute or a walk you recently went on. Add these images to the `storymaps-workshop` folder. 
 
