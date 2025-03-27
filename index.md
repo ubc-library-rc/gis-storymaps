@@ -49,7 +49,7 @@ While you are welcome to use the multimedia provided, **you are encouraged to pr
 - UBC Library's guide for finding and working with GIS resources: [guides.library.ubc.ca/gis](http://guides.library.ubc.ca/gis)
 - UBC's GIS Slack (create your own channel or lurk!): [ubcgis.slack.com](https://ubcgis.slack.com/)
 - Archive of all [Research Commons workshops](https://ubc-library-rc.github.io/)
-- Research Commons [Events Calender](https://researchcommons.library.ubc.ca/workshops/) for "live" facilitated workshops
+- Research Commons [Events Calender](https://researchcommons.library.ubc.ca/workshops/) for "live" facilitated workshops 
 - Contact UBC Library’s Geospatial team: `library.gis@ubc.ca`
 - Schedule a 1:1 consult with the geospatial team [here](https://libcal.library.ubc.ca/appointments/research_commons#s-lc-public-pt)
 
