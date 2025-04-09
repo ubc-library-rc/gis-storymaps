@@ -30,8 +30,7 @@ By the end of this workshop, you will:
 
 *1*{: .circle .circle-purple} Create ArcGIS Online Account
 
-Prior to the workshop, please **create a [free ArcGIS Online public account](https://www.arcgis.com/home/index.html)**. If you have a paid account with Esri, you can choose to use your regular sign-in or create a separate free account to follow along. See the <a href="./content/account-setup.md" target="_blank">account setup</a> page for documentation. 
-
+Prior to the workshop, please **create a [free ArcGIS Online public account](https://www.arcgis.com/home/index.html)**. If you have a paid account with Esri, you can choose to use your regular sign-in or create a separate free account to follow along. See the **Account Setup** subpage for documentation. 
 
 *2*{: .circle .circle-purple} Prepare Workshop Data
 
