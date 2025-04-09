@@ -39,6 +39,8 @@ To practice, choose a layout and add some pictures to locations.
 
 <br>
 
+![gif storymap demo](./images/storymap-maptour_20250409.gif)
+
 
 
 ## Sidecar
