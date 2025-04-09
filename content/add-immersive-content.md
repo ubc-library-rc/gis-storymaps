@@ -11,6 +11,11 @@ parent: Create a StoryMap
 ## Map Tours
 You can create a map tour to showcase a set of places. You can decide whether your readers get to explore these places in any order, or are led through in an order of your choosing. 
 
+![gif storymap demo](./images/storymap-maptour_20250409.gif)
+
+
+<br><br>
+
 If you select **start from scratch**, you'll be prompted to "Select a map tour layout". The options are Guided or Explorer. Guided leads the reader through an order of your choosing, whereas Explorer allows the reader to peruse on their own. 
 
 When you choose a layout, a new content block will be added to your StoryMap. It will look something like the below. The bottom banner contains the "Slides" of your map. Each slide displays some text and/or multimedia, and is connected to a location on the map. 
@@ -39,7 +44,7 @@ To practice, choose a layout and add some pictures to locations.
 
 <br>
 
-![gif storymap demo](./images/storymap-maptour_20250409.gif)
+
 
 
 
