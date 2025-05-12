@@ -15,7 +15,8 @@ If you want to create a Swipe on your StoryMap, the Filter function can be very 
 
 To Try
 {: .label .label-purple }
-On the `heritage_sites` layer, try filtering to include only archeological sites
+On the `heritage_sites` layer, try filtering to include only sites with an interior heritage designation
+
 On the `Bikeways` layer, try filtering to include only bikeways created in the 1990s
 
 <br>
