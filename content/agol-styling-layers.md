@@ -12,7 +12,7 @@ There are many different map types you can create easily on ArcGIS online, so pl
 
 Read more about [ArcGIS Online’s Smart Mapping Styles](https://doc.arcgis.com/en/arcgis-online/create-maps/apply-styles-mv.htm).
 
-We will only be looking at Smart Mapping styles. You can also use Arcade, ArcGIS’s expression language, to style and label your map, create informative pop-ups, and perform field calculations on your data. See Get Started with ArcGIS Arcade to learn more.
+We will only be looking at Smart Mapping styles. You can also use Arcade, ArcGIS’s expression language, to style and label your map, create informative pop-ups, and perform field calculations on your data. See [Get Started with ArcGIS Arcade](https://learn.arcgis.com/en/projects/get-started-with-arcgis-arcade/) to learn more.
 {: .note}
 
 <br>
